@@ -49,8 +49,8 @@
       <artifactId>quarkus-vertx</artifactId>
     </dependency>
     <dependency>
-      <groupId>io.quarkus</groupId>
-      <artifactId>quarkus-rest-client</artifactId>
+      <groupId>io.vertx</groupId>
+      <artifactId>vertx-web-client</artifactId>
     </dependency>
   </dependencies>
   <build>
